@@ -15,9 +15,11 @@
   },
   "dependencies": {
     "@esy-ocaml/esy-installer": "^0.0.0",
-    "@opam/jbuilder": "^1.0.0-beta16",
+    "@opam/jbuilder": "1.0.0-beta16",
     "@opam/lambda-term": "^1.11.0",
     "@opam/lwt": "^3.1.0",
+    "@opam/camlp4": "4.06+1",
+    "@opam/menhir": "20171013.0.0",
     "lwt-node": "*"
   },
   "peerDependencies": {

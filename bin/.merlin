@@ -1,5 +1,5 @@
-B ../../_build/default/testing/bin
-B ../../_build/default/testing/lib
+B ../_build/default/bin
+B ../_build/default/lib
 FLG -w -40
 PKG bigarray
 PKG bytes
@@ -15,4 +15,5 @@ PKG threads
 PKG threads.posix
 PKG unix
 PKG zed
+S .
 S ../lib

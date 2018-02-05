@@ -1,2 +1,7 @@
 node_modules
 .esy-cache
+my-esy-project.install
+_build
+.vscode
+.esy-modules
+.merlin
